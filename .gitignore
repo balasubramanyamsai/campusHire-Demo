@@ -1,0 +1,14 @@
+code .gitignore
+# Node modules
+backend/node_modules/
+
+# Env files
+backend/.env
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
